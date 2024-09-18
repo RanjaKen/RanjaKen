@@ -1,4 +1,4 @@
-## Hi there 👋
+
 <h1 align="center">Hi 👋, I'm Ranja Ken</h1>
 <h3 align="center">Developer passionate about learning new technologies and building cool stuff. Currently focused on python/pandas and eager to contribute to open source projects.</h3>
 
